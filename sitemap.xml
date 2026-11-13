@@ -20,4 +20,24 @@
     <loc>https://your-website-url.example.com/posts/the-most-cursed-fourth-quarter-teams/index.html</loc>
     <lastmod>2026-11-04T08:26:42.351Z</lastmod>
   </url>
+  <url>
+    <loc>https://your-website-url.example.com/posts/blogtutorial/index.html</loc>
+    <lastmod>2026-11-05T03:08:25.019Z</lastmod>
+  </url>
+  <url>
+    <loc>https://your-website-url.example.com/blogtutorial/index.html</loc>
+    <lastmod>2026-11-04T09:04:54.834Z</lastmod>
+  </url>
+  <url>
+    <loc>https://KacynH.github.io/index.html</loc>
+    <lastmod>2026-11-02T15:55:11.171Z</lastmod>
+  </url>
+  <url>
+    <loc>https://KacynH.github.io/posts/blogtutorial/index.html</loc>
+    <lastmod>2026-11-05T03:08:25.019Z</lastmod>
+  </url>
+  <url>
+    <loc>https://KacynH.github.io/posts/how-centers-have-evolved/index.html</loc>
+    <lastmod>2026-11-13T20:07:46.598Z</lastmod>
+  </url>
 </urlset>
